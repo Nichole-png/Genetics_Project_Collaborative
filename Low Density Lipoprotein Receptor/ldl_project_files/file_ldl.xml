@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omim version="1.0">
+<searchResponse>
+<search>gene_symbol:LDLR</search>
+<expandedSearch>gene_symbol:LDLR</expandedSearch>
+<parsedSearch>+gene_symbol:ldlr ()</parsedSearch>
+<searchSuggestion />
+<searchSpelling />
+<filter />
+<expandedFilter />
+<fields />
+<searchReport />
+<totalResults>1</totalResults>
+<startIndex>0</startIndex>
+<endIndex>0</endIndex>
+<sort />
+<operator />
+<searchTime>1.0</searchTime>
+<entryList>
+<entry>
+<prefix>*</prefix>
+<mimNumber>606945</mimNumber>
+<status>live</status>
+<titles>
+<preferredTitle>LOW DENSITY LIPOPROTEIN RECEPTOR; LDLR</preferredTitle>
+</titles>
+<geneMap>
+<sequenceID>8088</sequenceID>
+<chromosome>19</chromosome>
+<chromosomeSymbol>19</chromosomeSymbol>
+<chromosomeSort>277</chromosomeSort>
+<chromosomeLocationStart>11089431</chromosomeLocationStart>
+<chromosomeLocationEnd>11133819</chromosomeLocationEnd>
+<transcript>ENST00000558518.6</transcript>
+<cytoLocation>19p13.2</cytoLocation>
+<computedCytoLocation>19p13.2</computedCytoLocation>
+<mimNumber>606945</mimNumber>
+<geneSymbols>LDLR, FHCL1, FHC, FH, LDLCQ2</geneSymbols>
+<geneName>Low density lipoprotein receptor</geneName>
+<comments>~20cM distal to C3</comments>
+<mouseGeneSymbol>Ldlr</mouseGeneSymbol>
+<mouseMgiID>MGI:96765</mouseMgiID>
+<geneIDs>3949</geneIDs>
+<ensemblIDs>ENSG00000130164,ENST00000558518.6</ensemblIDs>
+<approvedGeneSymbols>LDLR</approvedGeneSymbols>
+<phenotypeMapList>
+<phenotypeMap>
+<mimNumber>606945</mimNumber>
+<phenotype>Hypercholesterolemia, familial, 1</phenotype>
+<phenotypeMimNumber>143890</phenotypeMimNumber>
+<phenotypicSeriesNumber>PS143890</phenotypicSeriesNumber>
+<phenotypeMappingKey>3</phenotypeMappingKey>
+<phenotypeInheritance>Autosomal dominant; Autosomal recessive</phenotypeInheritance>
+</phenotypeMap>
+<phenotypeMap>
+<mimNumber>606945</mimNumber>
+<phenotype>LDL cholesterol level QTL2</phenotype>
+<phenotypeMimNumber>143890</phenotypeMimNumber>
+<phenotypicSeriesNumber>PS143890</phenotypicSeriesNumber>
+<phenotypeMappingKey>3</phenotypeMappingKey>
+<phenotypeInheritance>Autosomal dominant; Autosomal recessive</phenotypeInheritance>
+</phenotypeMap>
+</phenotypeMapList>
+</geneMap>
+<matches>ldlr</matches>
+</entry>
+</entryList>
+</searchResponse>
+</omim>
